@@ -1,0 +1,20 @@
+\frametitle{Introduction}
+\begin{columns}
+\column{0.45\textwidth}
+\begin{figure}
+\frame{\includegraphics[scale=0.25]{intro_1}}
+\caption{The demand for the project management skill set is growing.}
+\end{figure}
+\vspace{-0.8cm}
+\begin{figure}
+\frame{\includegraphics[scale=0.2]{pm_jobs}}
+\caption{Many countries have a large number of projected opportunities for growth in the project management profession.}
+\end{figure}
+\column{0.5\textwidth}
+\begin{figure}
+\frame{\includegraphics[scale=0.3]{pmbok_guide}}
+\caption{The PMBOK is an authoritative guide to the project management profession, and this course will make reference to it frequently.}
+\end{figure}
+\end{columns}
+\vspace{-0.1cm}
+\tiny http://www.pmi.org/-/media/pmi/documents/public/pdf/business-solutions/project-management-skills-gap-report.pdf
